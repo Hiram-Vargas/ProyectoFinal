@@ -6,7 +6,7 @@
     background-color: #02B4B1;
     color: white;
   }
-  
+  /*Revision de la Rama_QA*/
   .btn:hover {
     background-color: #02B4B1;
   }
@@ -20,7 +20,7 @@
     object-fit: cover;
     filter: grayscale(70%);
   }
-  
+  /* Aqui trabajo la Rama_Prod*/
   #carousel {
     position: relative;
   }
